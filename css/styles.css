@@ -41,6 +41,11 @@ footer {
   background-color: #2e2f42;
 }
 
+ul,
+ol {
+  list-style: none;
+}
+
 .hero {
   background-color: #2e2f42;
 }
