@@ -1,13 +1,52 @@
-body
-  (  font-family: "Roboto", "Verdana", sans-serif;
- color: ;
- font-size: 16px;
- <!--font-weight: 400;-->
- font-style: normal;
-  background-color: ;)
-  h1 {
-  font-size: 32px;
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 20px;
+  /* line-height: 24px; */
   line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+p {
+  font-weight: 400;
+  font-size: 16px;
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.hero-title {
   font-weight: 700;
-  color: #000000;
+  font-size: 56px;
+  /* line-height: 60px; */
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: white;
+}
+
+.hero-btn {
+  font-weight: 500;
+  font-size: 16px;
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: white;
+  background-color: #4d5ae5;
 }
