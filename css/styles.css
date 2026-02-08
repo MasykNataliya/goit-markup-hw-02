@@ -96,6 +96,7 @@ footer {
   letter-spacing: 0.04em;
   color: white;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 #contacts {
@@ -118,5 +119,4 @@ footer {
 
 .hero-btn:hover {
   background-color: #404bbf;
-  cursor: pointer;
 }
